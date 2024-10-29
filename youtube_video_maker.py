@@ -1,3 +1,7 @@
+### By Hossein Haeri #######
+#### haeri.hsn@gmail.com ###
+############################
+
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
