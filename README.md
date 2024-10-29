@@ -3,6 +3,9 @@
 
 This application converts audio files into video files by adding a fixed cover image. It is designed to create videos that can be uploaded to platforms like YouTube, where each video has a chosen resolution, a black background (if needed), and the audio playing along with a static image.
 
+![Cover Image](cover_image.png)
+
+
 ## Features
 - Supports audio files (`.mp3`, `.wav`) and image files (`.png`, `.jpg`, `.jpeg`).
 - Offers common video resolutions, including 1080p, 720p, 480p, and 360p.
