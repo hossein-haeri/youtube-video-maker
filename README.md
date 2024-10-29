@@ -47,8 +47,5 @@ The application requires **FFmpeg** to handle video and audio encoding. FFmpeg i
 - The created videos will have the same duration as the audio files.
 - The videos are saved in `.mp4` format, suitable for YouTube and other video platforms.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 **Created by Hossein Haeri**
