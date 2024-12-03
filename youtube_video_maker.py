@@ -92,7 +92,7 @@ def select_output_directory():
 # GUI Setup
 root = tk.Tk()
 root.title("Audio to Video Converter")
-root.geometry("500x600")
+root.geometry("500x800")
 
 # Select Audio Files
 tk.Label(root, text="Select Audio Files:").pack()
