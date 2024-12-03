@@ -4,7 +4,7 @@
 This free, easy-to-use application converts audio files into video files by adding a fixed cover image. It’s perfect for podcasters, musicians, educators, and content creators who want to upload audio content to platforms like YouTube. Each video features a custom resolution, a black background if needed, and plays the selected audio over a static image. This tool is ideal for turning podcasts, songs, voiceovers, or other audio content into shareable video formats quickly and easily.
 
 <p align="center">
-  <img src="cover_image.png" alt="Cover Image" width="300"/>
+  <img src="UI_img.png" alt="Cover Image" width="300"/>
 </p>
 
 ## Features
